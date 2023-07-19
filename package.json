@@ -1,0 +1,25 @@
+{
+  "name": "productiontool",
+  "version": "1.0.0",
+  "description": "todo task, steps, priority",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "task",
+    "step",
+    "timeline",
+    "priority",
+    "password"
+  ],
+  "author": "Anthony",
+  "license": "MIT",
+  "dependencies": {
+    "@types/cors": "^2.8.13",
+    "@types/express": "^4.17.17",
+    "@types/mongoose": "^5.11.97",
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.3.1"
+  }
+}
